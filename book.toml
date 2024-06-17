@@ -1,0 +1,6 @@
+[book]
+authors = ["Ken Chou"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "现代词选"
